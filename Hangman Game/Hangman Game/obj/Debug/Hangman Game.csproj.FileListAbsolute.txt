@@ -1,0 +1,7 @@
+C:\Users\julia.menshikov\Desktop\Tortoise C# Projects\CSharp-HangmanGame\Hangman Game\Hangman Game\bin\Debug\Hangman Game.exe.config
+C:\Users\julia.menshikov\Desktop\Tortoise C# Projects\CSharp-HangmanGame\Hangman Game\Hangman Game\bin\Debug\Hangman Game.exe
+C:\Users\julia.menshikov\Desktop\Tortoise C# Projects\CSharp-HangmanGame\Hangman Game\Hangman Game\bin\Debug\Hangman Game.pdb
+C:\Users\julia.menshikov\Desktop\Tortoise C# Projects\CSharp-HangmanGame\Hangman Game\Hangman Game\obj\Debug\Hangman Game.csproj.AssemblyReference.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C# Projects\CSharp-HangmanGame\Hangman Game\Hangman Game\obj\Debug\Hangman Game.csproj.CoreCompileInputs.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C# Projects\CSharp-HangmanGame\Hangman Game\Hangman Game\obj\Debug\Hangman Game.exe
+C:\Users\julia.menshikov\Desktop\Tortoise C# Projects\CSharp-HangmanGame\Hangman Game\Hangman Game\obj\Debug\Hangman Game.pdb
