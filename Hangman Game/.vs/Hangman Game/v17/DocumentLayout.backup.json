@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B953C80D-2D18-4839-8DAB-A3CCDCBDCC97}|Hangman Game\\Hangman Game.csproj|c:\\users\\julia.menshikov\\desktop\\tortoise c# projects\\csharp-hangmangame\\hangman game\\hangman game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B953C80D-2D18-4839-8DAB-A3CCDCBDCC97}|Hangman Game\\Hangman Game.csproj|solutionrelative:hangman game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-TicTacToe\\TicTacToe\\TicTacToe\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,30 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-TicTacToe\\TicTacToe\\TicTacToe\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\CSharp-TicTacToe\\TicTacToe\\TicTacToe\\Program.cs",
-              "ToolTip": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-TicTacToe\\TicTacToe\\TicTacToe\\Program.cs",
-              "RelativeToolTip": "..\\..\\CSharp-TicTacToe\\TicTacToe\\TicTacToe\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:25:14.768Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-HangmanGame\\Hangman Game\\Hangman Game\\Program.cs",
               "RelativeDocumentMoniker": "Hangman Game\\Program.cs",
-              "ToolTip": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-HangmanGame\\Hangman Game\\Hangman Game\\Program.cs*",
-              "RelativeToolTip": "Hangman Game\\Program.cs*",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwEkAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-HangmanGame\\Hangman Game\\Hangman Game\\Program.cs",
+              "RelativeToolTip": "Hangman Game\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwGUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T09:21:31.475Z",
               "EditorCaption": ""
